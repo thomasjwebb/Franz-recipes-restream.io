@@ -1,0 +1,12 @@
+{
+  "id": "restream.io",
+  "name": "Restream.io",
+  "version": "1.0.0",
+  "description": "Restream.io",
+  "main": "index.js",
+  "author": "Red Rayner <redrayner@heavyweightmark.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://restream.io/titles/"
+  }
+}
