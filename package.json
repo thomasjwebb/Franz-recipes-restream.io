@@ -1,12 +1,13 @@
 {
   "id": "restream.io",
   "name": "Restream.io",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Restream.io",
   "main": "index.js",
   "author": "Red Rayner <redrayner@heavyweightmark.com>",
+  "contributors": ["Thomas J. Webb <thomas@thomasjwebb.com>"],
   "license": "MIT",
   "config": {
-    "serviceURL": "https://restream.io/titles/"
+    "serviceURL": "https://chat.restream.io/"
   }
 }
